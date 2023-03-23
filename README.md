@@ -5,3 +5,4 @@ Repositório dedicado a criação de projetos com base bootcamp da digital one i
 
 > [Criação um design system (Figma)](https://www.figma.com/file/Pw92HRRYiwEpQXOYBFdFB6/Projetos-forma%C3%A7%C3%A3o-UX-Design?node-id=111%3A2&t=WewcD4TKjKFzhz7q-1)
 
+> [Criação de um prototipo navegavel (Figma)](https://www.figma.com/file/Pw92HRRYiwEpQXOYBFdFB6/Projetos-forma%C3%A7%C3%A3o-UX-Design?node-id=162%3A956&t=zV81quLb49kyCYh1-1)
